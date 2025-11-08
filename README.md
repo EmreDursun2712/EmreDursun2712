@@ -12,7 +12,9 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 ## 🐍 Python
 - GUI & automation experiments  
 - Data analysis & visualization tools  
-- Machine learning practice scripts  
+- Machine learning practice scripts
+
+  - [Band Name Generator](https://github.com/mortred/band-name-generator) — Tkinter GUI app that generates fun band names  
 
 ---
 
