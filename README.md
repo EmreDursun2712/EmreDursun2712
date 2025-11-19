@@ -13,9 +13,9 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - GUI & automation experiments  
 - Data analysis & visualization tools  
 - Machine learning practice scripts
-
-  - [Band Name Generator](https://github.com/EmreDursun2712/band-name-generator) — Tkinter GUI app that generates fun band names
-  - [Tip Calculator](https://github.com/EmreDursun2712/tip-calculator-pyqt) - PyQt GUI app that calculates bill splits with tip support  
+  
+  - [Tip Calculator](https://github.com/EmreDursun2712/tip-calculator-pyqt) - PyQt GUI app that calculates bill splits with tip support
+  - [Band Name Generator](https://github.com/EmreDursun2712/band-name-generator) — Tkinter GUI app that generates fun band names  
 
 ---
 
@@ -70,7 +70,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-## 📱 Flutter / React Native
+## 📱 Flutter / React Native & Java / Kotlin
 - UI component experiments  
 - Mobile design prototypes  
 
