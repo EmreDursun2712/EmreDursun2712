@@ -72,7 +72,9 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ## 📱 Flutter / React Native & Java / Kotlin
 - UI component experiments  
-- Mobile design prototypes  
+- Mobile design prototypes
+
+    - [The Greetings App](https://github.com/EmreDursun2712/TheGreetingsApp) - Java-based Android app that shows user-specific greeting texts
 
 ---
 
