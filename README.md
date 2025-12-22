@@ -41,7 +41,10 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 ## 💻 Web (HTML, CSS, JavaScript, TypeScript)
 - Frontend component practice  
 - Responsive design layouts  
-- Basic web app structures  
+- Basic web app structures
+
+  - [Interactive DSA Visualizer](https://github.com/EmreDursun2712/InteractiveDSAVisualizer) - Vanilla JS interactive platform to learn data structures & algorithms with visual animations, metrics, and Learning/Challenge modes
+  - [Transport & Management System](https://github.com/EmreDursun2712/transport-management-system-demo) - Vanilla HTML/CSS/JS logistics demo with shipment creation/tracking, admin dashboard, reporting, and simple container optimization
 
 ---
 
