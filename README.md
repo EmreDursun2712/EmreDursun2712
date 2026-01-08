@@ -91,6 +91,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - AI-driven automation experiments
 
   - [Authorship Attribution](https://github.com/EmreDursun2712/AuthorshipAttribution) - NLP midterm project: predicts the author of a text using the 30 Columnists dataset, comparing feature representations and classification models in a Jupyter notebook.
+  - [Sports Video Insight Pipeline](https://github.com/EmreDursun2712/SportsVideoInsightPipeline/tree/main) - An NLP + video pipeline that transcribes football commentary with FFmpeg + Whisper, detects key events using rule-based rules, and produces analytics plots for highlights.
 
 ---
 
