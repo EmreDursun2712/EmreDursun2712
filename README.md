@@ -96,7 +96,9 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - Linux / Shell scripting practice  
 - Git & GitHub version control  
 - Cloudflare / Networking tests  
-- UX & System design studies  
+- UX & System design studies
+
+  - [Branch Network Design](https://github.com/EmreDursun2712/BranchNetworkDesign) - Computer Networks project implementing a multi-branch topology in Cisco Packet Tracer, including static routing, DHCP relay, server services (DNS/HTTP), and SNMP.
 
 ---
 
