@@ -62,8 +62,10 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ## 🗄️ SQL / PostgreSQL / MongoDB / Redis
 - Database schema experiments  
-- Query optimization exercises  
-
+- Query optimization exercises
+  
+  - [Tobacco Survey DB](https://github.com/EmreDursun2712/TobaccoSurveyDB) - Implements a 3NF MySQL schema for a youth tobacco survey dataset, including a reporting view, stored procedures (IN/OUT/INOUT), and a lightweight Go REST API + web interface.
+  
 ---
 
 ## 🐳 DevOps & Cloud
