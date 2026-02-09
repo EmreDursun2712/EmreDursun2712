@@ -14,6 +14,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - Data analysis & visualization tools  
 - Machine learning practice scripts
   
+  - [Rock Paper Scissors](https://github.com/EmreDursun2712/RockPaperScissors) - A sleek PyQt5 desktop Rock-Paper-Scissors game featuring smooth animations, a simple UI, and score tracking.
   - [Treasure Island](https://github.com/EmreDursun2712/TreasureIsland/tree/main) - A modular Python adventure game featuring a data-driven scene system, inventory mechanics, limited hints, random events, and JSON save/load, with both CLI and Qt GUI.
   - [Tip Calculator](https://github.com/EmreDursun2712/tip-calculator-pyqt) - PyQt GUI app that calculates bill splits with tip support
   - [Band Name Generator](https://github.com/EmreDursun2712/band-name-generator) — Tkinter GUI app that generates fun band names  
