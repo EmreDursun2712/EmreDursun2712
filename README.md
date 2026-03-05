@@ -66,6 +66,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - Database schema experiments  
 - Query optimization exercises
   
+  - [TV Series Review DB](https://github.com/EmreDursun2712/TVseriesDB/tree/main) - Implements a MySQL schema for TV series ratings with relational integrity (FKs), seed data, and analytics queries (avg/min/max, unreviewed series, reviewer activity status).
   - [Tobacco Survey DB](https://github.com/EmreDursun2712/TobaccoSurveyDB) - Implements a 3NF MySQL schema for a youth tobacco survey dataset, including a reporting view, stored procedures (IN/OUT/INOUT), and a lightweight Go REST API + web interface.
   
 ---
