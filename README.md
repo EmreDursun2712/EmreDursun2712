@@ -114,6 +114,3 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - ✉️ **dursunemregit2712@gmail.com**
 
 ---
-
-> “Projects are born from curiosity — and curiosity never sleeps.”  
-> — Emre Dursun
