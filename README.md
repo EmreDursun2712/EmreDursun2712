@@ -1,15 +1,15 @@
-# 👋 Hey, I'm Emre Dursun
+#  Hey, I'm Emre Dursun
 
 I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, focused on mastering programming languages, software systems, and AI-driven technologies.
 
 ---
 
-## 🚀 My Projects
+##  My Projects
 *(Currently organizing and building projects under each language and technology below.)*
 
 ---
 
-## 🐍 Python
+##  Python
 - GUI & automation experiments  
 - Data analysis & visualization tools  
 - Machine learning practice scripts
@@ -21,26 +21,26 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-## ☕ Java
+##  Java
 - Object-oriented programming exercises  
 - Backend structure demos  
 - Spring Boot practice projects  
 
 ---
 
-## 🦀 Rust
+##  Rust
 - Systems programming basics  
 - Performance testing mini projects  
 
 ---
 
-## 🐹 Go
+##  Go
 - API and backend service learning  
 - Concurrency experiments  
 
 ---
 
-## 💻 Web (HTML, CSS, JavaScript, TypeScript)
+##  Web (HTML, CSS, JavaScript, TypeScript)
 - Frontend component practice  
 - Responsive design layouts  
 - Basic web app structures
@@ -50,19 +50,19 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-## ⚙️ React & Next.js
+##  React & Next.js
 - Component-based UI demos  
 - Small-scale frontend prototypes  
 
 ---
 
-## 🌐 Node.js & GraphQL
+##  Node.js & GraphQL
 - API design examples  
 - Server-side app prototypes  
 
 ---
 
-## 🗄️ SQL / PostgreSQL / MongoDB / Redis
+##  SQL / PostgreSQL / MongoDB / Redis
 - Database schema experiments  
 - Query optimization exercises
   
@@ -71,14 +71,14 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
   
 ---
 
-## 🐳 DevOps & Cloud
+##  DevOps & Cloud
 - Docker & Kubernetes learning setup  
 - AWS & Terraform exploration  
 - CI/CD workflow testing  
 
 ---
 
-## 📱 Flutter / React Native & Java / Kotlin
+##  Flutter / React Native & Java / Kotlin
 - UI component experiments  
 - Mobile design prototypes
 
@@ -88,7 +88,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-## 🧠 Data & AI
+##  Data & AI
 - Data pipeline prototypes  
 - ML model training demos  
 - AI-driven automation experiments
@@ -98,7 +98,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-## 🔐 Other Technologies
+##  Other Technologies
 - Linux / Shell scripting practice  
 - Git & GitHub version control  
 - Cloudflare / Networking tests  
@@ -108,9 +108,9 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/emre-dursun-933880254/)  
-- ☕ [Instagram](https://www.instagram.com/emreedursn/)  
-- ✉️ **dursunemregit2712@gmail.com**
+##  Connect With Me
+-  [LinkedIn](https://www.linkedin.com/in/emre-dursun-933880254/)  
+-  [Instagram](https://www.instagram.com/emreedursn/)  
+-  **dursunemregit2712@gmail.com**
 
 ---
