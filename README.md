@@ -104,7 +104,9 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - Git & GitHub version control  
 - Cloudflare / Networking tests  
 - UX & System design studies
+- Embedded Systems
 
+  - [Autonomous 2D Mapping](https://github.com/EmreDursun2712/Autonomous2DMapping-NavigationRover) - Autonomous 2D mapping and navigation rover in Rust featuring occupancy-grid mapping, frontier exploration, A* path planning, and Monte Carlo Localization with a live egui dashboard.
   - [Branch Network Design](https://github.com/EmreDursun2712/BranchNetworkDesign) - Computer Networks project implementing a multi-branch topology in Cisco Packet Tracer, including static routing, DHCP relay, server services (DNS/HTTP), and SNMP.
   - [SentinelAI](https://github.com/EmreDursun2712/SentinelAI) - An AI-powered cybersecurity dashboard for detecting, analyzing, and simulating responses to network threats.
 
