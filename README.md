@@ -109,6 +109,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
   - [Autonomous 2D Mapping](https://github.com/EmreDursun2712/Autonomous2DMapping-NavigationRover) - Autonomous 2D mapping and navigation rover in Rust featuring occupancy-grid mapping, frontier exploration, A* path planning, and Monte Carlo Localization with a live egui dashboard.
   - [Branch Network Design](https://github.com/EmreDursun2712/BranchNetworkDesign) - Computer Networks project implementing a multi-branch topology in Cisco Packet Tracer, including static routing, DHCP relay, server services (DNS/HTTP), and SNMP.
   - [SentinelAI](https://github.com/EmreDursun2712/SentinelAI) - An AI-powered cybersecurity dashboard for detecting, analyzing, and simulating responses to network threats.
+  - [Cortex](https://github.com/EmreDursun2712/CORTEX) - Cortex is a documentation-driven software project — centered on a full requirements analysis (SRS), design document, and UML models — with a complete, deployed full-stack app that logs students’ study, sleep, attendance, and grades and turns them into analytics, goals, and role-based advisor/admin dashboards built on top as an extra.
 
 ---
 
