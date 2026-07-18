@@ -21,44 +21,17 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-##  Java
-- Object-oriented programming exercises  
-- Backend structure demos  
-- Spring Boot practice projects  
-
----
-
-##  Rust
-- Systems programming basics  
-- Performance testing mini projects  
-
----
-
 ##  Go
 - API and backend service learning  
 - Concurrency experiments  
 
 ---
 
-##  Web (HTML, CSS, JavaScript, TypeScript)
-- Frontend component practice  
-- Responsive design layouts  
-- Basic web app structures
-
-  - [Interactive DSA Visualizer](https://github.com/EmreDursun2712/InteractiveDSAVisualizer) - Vanilla JS interactive platform to learn data structures & algorithms with visual animations, metrics, and Learning/Challenge modes
-  - [Transport & Management System](https://github.com/EmreDursun2712/transport-management-system-demo) - Vanilla HTML/CSS/JS logistics demo with shipment creation/tracking, admin dashboard, reporting, and simple container optimization
-
----
-
-##  React & Next.js
-- Component-based UI demos  
-- Small-scale frontend prototypes  
-
----
-
-##  Node.js & GraphQL
-- API design examples  
-- Server-side app prototypes  
+##  R
+- Interactive web applications & dashboards using Shiny  
+- Advanced data manipulation, analysis & ggplot2 visualizations via Tidyverse  
+- Statistical modeling & machine learning practice using tidymodels  
+- Automated & dynamic reporting tools with Quarto / R Markdown  
 
 ---
 
@@ -69,23 +42,6 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
   - [TV Series Review DB](https://github.com/EmreDursun2712/TVseriesDB/tree/main) - Implements a MySQL schema for TV series ratings with relational integrity (FKs), seed data, and analytics queries (avg/min/max, unreviewed series, reviewer activity status).
   - [Tobacco Survey DB](https://github.com/EmreDursun2712/TobaccoSurveyDB) - Implements a 3NF MySQL schema for a youth tobacco survey dataset, including a reporting view, stored procedures (IN/OUT/INOUT), and a lightweight Go REST API + web interface.
   
----
-
-##  DevOps & Cloud
-- Docker & Kubernetes learning setup  
-- AWS & Terraform exploration  
-- CI/CD workflow testing  
-
----
-
-##  Flutter / React Native & Java / Kotlin
-- UI component experiments  
-- Mobile design prototypes
-
-    - [The Counter App](https://github.com/EmreDursun2712/CounterApp/tree/main) - Java-based Android app that displays and increments a simple on-screen counter
-    - [The Greetings App](https://github.com/EmreDursun2712/TheGreetingsApp) - Java-based Android app that shows user-specific greeting texts  
-    
-
 ---
 
 ##  Data & AI
@@ -99,16 +55,43 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 ---
 
-##  Other Technologies
-- Linux / Shell scripting practice  
-- Git & GitHub version control  
-- Cloudflare / Networking tests  
-- UX & System design studies
-- Embedded Systems
+##  DevOps & Cloud
+- Docker & Kubernetes learning setup  
+- AWS & Terraform exploration  
+- CI/CD workflow testing  
 
+---
+
+##  Web Development (HTML, CSS, JavaScript, TypeScript)
+- Frontend component practice  
+- Responsive design layouts  
+- Basic web app structures
+
+  - [Interactive DSA Visualizer](https://github.com/EmreDursun2712/InteractiveDSAVisualizer) - Vanilla JS interactive platform to learn data structures & algorithms with visual animations, metrics, and Learning/Challenge modes
+  - [Transport & Management System](https://github.com/EmreDursun2712/transport-management-system-demo) - Vanilla HTML/CSS/JS logistics demo with shipment creation/tracking, admin dashboard, reporting, and simple container optimization
+
+---
+
+##  Mobil Development (Flutter, React Native, Java, Kotlin)
+- UI component experiments  
+- Mobile design prototypes
+
+    - [The Counter App](https://github.com/EmreDursun2712/CounterApp/tree/main) - Java-based Android app that displays and increments a simple on-screen counter
+    - [The Greetings App](https://github.com/EmreDursun2712/TheGreetingsApp) - Java-based Android app that shows user-specific greeting texts  
+    
+
+---
+
+##  Other Technologies
+- Embedded Systems
   - [Autonomous 2D Mapping](https://github.com/EmreDursun2712/Autonomous2DMapping-NavigationRover) - Autonomous 2D mapping and navigation rover in Rust featuring occupancy-grid mapping, frontier exploration, A* path planning, and Monte Carlo Localization with a live egui dashboard.
+
+- Computer Networks
   - [Branch Network Design](https://github.com/EmreDursun2712/BranchNetworkDesign) - Computer Networks project implementing a multi-branch topology in Cisco Packet Tracer, including static routing, DHCP relay, server services (DNS/HTTP), and SNMP.
+- Cybersecurity
   - [SentinelAI](https://github.com/EmreDursun2712/SentinelAI) - An AI-powered cybersecurity dashboard for detecting, analyzing, and simulating responses to network threats.
+
+- Software Fundamentals
   - [Cortex](https://github.com/EmreDursun2712/CORTEX) - Cortex is a documentation-driven software project — centered on a full requirements analysis (SRS), design document, and UML models — with a complete, deployed full-stack app that logs students’ study, sleep, attendance, and grades and turns them into analytics, goals, and role-based advisor/admin dashboards built on top as an extra.
 
 ---
