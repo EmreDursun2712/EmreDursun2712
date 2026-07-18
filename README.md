@@ -76,6 +76,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 - UI component experiments  
 - Mobile design prototypes
 
+    - [QRServe](https://github.com/EmreDursun2712/QRServe) - QR-based restaurant ordering system — Android + Spring Boot, with JWT auth and live order tracking (SSE).
     - [The Counter App](https://github.com/EmreDursun2712/CounterApp/tree/main) - Java-based Android app that displays and increments a simple on-screen counter
     - [The Greetings App](https://github.com/EmreDursun2712/TheGreetingsApp) - Java-based Android app that shows user-specific greeting texts  
     
