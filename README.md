@@ -86,6 +86,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 ##  Other Technologies
 - Embedded Systems
   - [Autonomous 2D Mapping](https://github.com/EmreDursun2712/Autonomous2DMapping-NavigationRover) - Autonomous 2D mapping and navigation rover in Rust featuring occupancy-grid mapping, frontier exploration, A* path planning, and Monte Carlo Localization with a live egui dashboard.
+  - [Seven Segment Counter](https://github.com/EmreDursun2712/SevenSegmentCounter) - Arduino Uno firmware that drives a common-anode single-digit 7-segment display (pins D2–D8) to count 0–9, with a reusable driver class, non-blocking timing, and Wokwi simulation.
 
 - Computer Networks
   - [Branch Network Design](https://github.com/EmreDursun2712/BranchNetworkDesign) - Computer Networks project implementing a multi-branch topology in Cisco Packet Tracer, including static routing, DHCP relay, server services (DNS/HTTP), and SNMP.
