@@ -89,7 +89,7 @@ I'm a **Computer Engineering student at Muğla Sıtkı Koçman University**, foc
 
 - Computer Networks
   - [Branch Network Design](https://github.com/EmreDursun2712/BranchNetworkDesign) - Computer Networks project implementing a multi-branch topology in Cisco Packet Tracer, including static routing, DHCP relay, server services (DNS/HTTP), and SNMP.
-- Cybersecurity
+- Cyber Security
   - [SentinelAI](https://github.com/EmreDursun2712/SentinelAI) - An AI-powered cybersecurity dashboard for detecting, analyzing, and simulating responses to network threats.
 
 - Software Fundamentals
